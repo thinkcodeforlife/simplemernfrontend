@@ -1,3 +1,14 @@
+# Exercise Tracker App
+* Simple CRUD app
+* No tests are involved
+* This is only front-end
+* Back-end is separately put to Github (https://github.com/thinkcodeforlife/simplemernbackend.git)
+
+### Steps
+1. cd simplemernfrontend && npm i
+2. npm start
+3. Go clone back-end and perform necessary steps in the readme file
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
